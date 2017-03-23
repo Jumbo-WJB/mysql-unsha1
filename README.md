@@ -1,3 +1,7 @@
+//mysql-unsha1：在未知密码情况下，登录任意MYSQL数据库   http://www.4hou.com/technology/3884.html
+
+
+
 mysql-unsha1
 ============
 
